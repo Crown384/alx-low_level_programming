@@ -1,5 +1,6 @@
 #include <stdio.h>
-int main(void) /*This is the main functuon and
+int main(void)
+	/*This is the main functuon and
 		 *is void It returns a value of il00 
 		 */
 {
