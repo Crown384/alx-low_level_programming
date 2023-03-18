@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main: Prints that laat digit of a number and compares
+ * main  Prints a text according number
  * Return: Always(success)
  *
  */
