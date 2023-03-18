@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main- Prints all possible ckmbinations of letter 0-9 
+ * main- Prints all possible ckmbinations of letter 0
  * Return: Always 0 {Success)
  *
  */
