@@ -1,5 +1,5 @@
 #!/bin/bash
 read name
 
-echo -e "#!/bin/bash\n">$name
+echo -e "#include <stdlib.h>\n#include <time.h>\n#include <stdio.h>">$name
 vi $name 
