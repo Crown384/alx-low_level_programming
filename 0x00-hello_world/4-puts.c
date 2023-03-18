@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
- * main: Thjs is the main part of fge project
+ * main- Thjs is the main part of fge project
  * Description: I am descriving thisbfor you
  */
 int main(void)
