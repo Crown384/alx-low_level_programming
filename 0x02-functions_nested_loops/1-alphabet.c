@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * main- Prints with sekf created funxtuona
- * Return: Always 
+ * print_alphabet- Prints with sekf created funxtuona
+ * Return: Always
  */
 
 #include "main.h"
