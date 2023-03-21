@@ -1,0 +1,6 @@
+#!/bin/bash
+
+read name
+
+echo -e '#include "main.h"\n'>$name
+vi $name
