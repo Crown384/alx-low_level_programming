@@ -1,0 +1,9 @@
+#!/bin/bash
+read name
+
+chmod a+x $name
+git add .
+git commit -m "$name"
+git push
+
+

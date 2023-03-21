@@ -1,0 +1,5 @@
+#!/bin/bash
+read name
+
+echo -e "#include <stdlib.h>\n#include <time.h>\n#include <stdio.h>">$name
+vi $name 
