@@ -1,6 +1,7 @@
 #!/bin/bash
 read name
 
+chmod a+x $name
 git add $name
 git commit -m "$name$"
 git push
