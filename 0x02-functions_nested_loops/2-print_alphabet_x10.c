@@ -2,7 +2,7 @@
 
 /**
  * print_alphabet_x10 - Prints x10
- * Return: Always 
+ * Return: Always
  *
  */
 
